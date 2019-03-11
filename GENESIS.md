@@ -86,7 +86,7 @@ the recommended allocation to seed contributors is 11,809,947.91 ATOMs,
 and that to strategic and early contributors is 16,856,718 ATOMs.
 A total of 28,666,666.88 ATOMs, allocated to 15 addresses.
 These ATOMs are not subject to a vesting scheme in the event transfers become activated.
-See [JSON](json/accounts/private/contributors.json).
+See [JSON](accounts/private/contributors.json).
 
 ## Public Contributors
 
@@ -99,10 +99,10 @@ Note these totals take into account rejected contributors who contributed too mu
 too late, as summarized in the [blog
 post](https://blog.cosmos.network/fundraiser-finalization-c31ae13d3f9b).
 These ATOMs are not subject to a vesting scheme in the event transfers become activated.
-See [JSON](json/accounts/public/contributors.json).
+See [JSON](accounts/public/contributors.json).
 
 The values here can be recomputed using any Bitcoin and Ethereum nodes synced
-past April 7, 2017. For instance, see the scripts in [json/accounts/public](json/accounts/public).
+past April 7, 2017. For instance, see the scripts in [accounts/public](accounts/public).
 
 ## AiB
 
@@ -116,12 +116,12 @@ AiBs ATOMs are split into two sets, each subject to a different form of vesting.
 The first set consists of 1,777,707 ATOMs allocated to 44 addresses owned by AiB founders, contractors, and employees.
 These atoms are non-transferable for 12 months, but can be used for staking and
 governance. After 12 months, if the transferability of the ATOM is activated, they become fully transferable. See
-[JSON](json/accounts/aib/employees.json).
+[JSON](accounts/aib/employees.json).
 
 The remaining set of AiBs atoms are held in an AiB multisig and vest
 continuously starting 2 months after genesis.
 This is a total of 21,842,188.81 ATOMs.
-See [JSON](json/accounts/aib/multisig.json).
+See [JSON](accounts/aib/multisig.json).
 
 ## ICF
 
@@ -133,16 +133,16 @@ vesting scheme in case the transferability of ATOM is activated.
 
 The first set is for advisors and early contributors to organizing the fundraiser and
 foundation structure, a total of 3,054,207.32 ATOMs allocated to 8 addresses. See
-[JSON](json/accounts/icf/early.json).
+[JSON](accounts/icf/early.json).
 
 The second set is for the so-called Game-of-Stakes participants, according to the scoring
 criteria set out by AiB. This is a total of 288,500 ATOMs allocated to 53
 addresses. Congrats to the Game-of-Stakes participants! 
-See [JSON](json/accounts/icf/gos.json).
+See [JSON](accounts/icf/gos.json).
 
 The final set of ICF atoms are held in an ICF multisig. This is a total of
 20,277,188.49 ATOMs split between two distinct multisig addresses controlled by
-the ICF. See [JSON](json/accounts/icf/multisig.json).
+the ICF. See [JSON](accounts/icf/multisig.json).
 
 # Disclaimer
 
