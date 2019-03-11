@@ -88,15 +88,16 @@ activated in the future, these ATOM still are subject to the
 **WARNING**: THIS IS A DRAFT
 
 Private contributors consisted of "seed contributors" and "strategic and early contributors".
-The seed contributors contributed an amount of USD 300,000. 
 The strategic and early contributors contributed an amount of USD 1,329,472.33
 at a discount from the public fundraiser's USD/ATOM rate (discounts ranged from 15-25%),
-prior to the public fundraiser.
+prior to the public fundraiser. The recommended allocation to strategic
+and early contributors is 16,856,718.97 ATOMs.
 
-Given the amount of USD $16,029,249.962 raised in the fundraiser, 
-the recommended allocation to seed contributors is 11,809,947.91 ATOMs,
-and that to strategic and early contributors is 16,856,718 ATOMs.
-A total of 28,666,666.88 ATOMs, allocated to 15 addresses.
+The seed contributors contributed an amount of USD 300,000. 
+Their recommended allocation is 11,809,947.91 ATOMs.
+
+This is a total of 28,666,666.88 ATOMs to seed, strategic, and early financial
+contributors, allocated to 15 addresses.
 These ATOMs are not subject to a vesting scheme in the event transfers become activated.
 See [JSON](accounts/private/contributors.json).
 
@@ -106,7 +107,7 @@ See [JSON](accounts/private/contributors.json).
 
 Public contributors consisted of public members of the Tendermint and Cosmos community
 that participated in the fundraiser on April 6th, 2017. 
-A total amount of 16,029,249.962 USD was contributed by 864 addresses, at a recommended rate of USD 0.10/ATOM
+A total amount of 16,029,305.06 USD was contributed by 864 addresses, at a recommended rate of USD 0.10/ATOM
 (based on the equivalent BTC/USD and ETH/USD rates as defined within the terms
 and conditions).
 Note these totals take into account rejected contributors who contributed too much or
